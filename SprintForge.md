@@ -8,7 +8,7 @@ Agile project management tool with sprint planning, team collaboration, and docu
 
 ---
 
-<img width="1892" height="856" alt="Screenshot 2026-04-06 091109" src="https://github.com/user-attachments/assets/78a7d7a0-0b05-4f5b-b082-97f41b5371f0" 
+<img width="1892" height="856" alt="Screenshot 2026-04-06 091109" src="https://github.com/user-attachments/assets/78a7d7a0-0b05-4f5b-b082-97f41b5371f0"  />
   
 ---
 <img width="1904" height="856" alt="Screenshot 2026-04-06 090856" src="https://github.com/user-attachments/assets/6b7cdada-d6e5-40ae-b883-b8fc920d9873" />
